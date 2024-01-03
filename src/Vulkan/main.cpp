@@ -12,8 +12,6 @@
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>
 #include <Nuc/Random.h>
-#include <glm/glm.hpp>
-#include <glm/gtc/type_ptr.hpp>
 
 #define VMA_IMPLEMENTATION
 #include "vk_mem_alloc.h"

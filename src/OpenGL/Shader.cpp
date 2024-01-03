@@ -2,7 +2,7 @@
 
 #include <fstream>
 #include <iostream>
-#include <glm/gtc/type_ptr.hpp>
+
 
 Shader::Shader() {
     m_Program = glCreateProgram();
