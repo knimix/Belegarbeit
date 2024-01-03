@@ -4,7 +4,7 @@ Vulkan und OpenGL Benchmark
 
 
 Um das Projekt zu compilen benötigt es eine gültige installation von conan (https://conan.io/) und cmake.
-Getestet wurde es auf Linux und Windows
+Getestet wurde es auf Arch Linux 
 
 1. git clone https://github.com/knimix/Belegarbeit.git
 2. cd Belegarbeit/
