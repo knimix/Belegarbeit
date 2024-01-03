@@ -9,6 +9,8 @@ class ConanApplication(ConanFile):
     settings = "os", "compiler", "build_type", "arch"
     generators = "CMakeDeps"
 
+    default_options = {"glad/*:gl_profile": "core", "glad/*:gl_version": "4.3"}
+
     def layout(self):
         cmake_layout(self)
 
