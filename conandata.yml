@@ -1,0 +1,10 @@
+# This file is managed by Conan, contents will be overwritten.
+# To keep your changes, remove these comment lines, but the plugin won't be able to modify your requirements
+
+requirements:
+  - "glad/0.1.36"
+  - "stb/cci.20220909"
+  - "vulkan-memory-allocator/3.0.1"
+  - "glfw/3.3.8"
+  - "gem/1.0"
+  - "nuc/1.0"
