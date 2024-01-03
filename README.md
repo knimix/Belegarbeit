@@ -12,3 +12,8 @@ Getestet wurde es auf Arch Linux
 4. cd build/
 5. cmake .. -DCMAKE_TOOLCHAIN_FILE=Release/generators/conan_toolchain.cmake -DCMAKE_BUILD_TYPE=Release
 6. cmake --build .
+
+
+Preview
+
+![plot](preview.png)
