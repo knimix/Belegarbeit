@@ -6,6 +6,11 @@ Vulkan und OpenGL Benchmark
 Um das Projekt zu compilen benötigt es eine gültige installation von conan (https://conan.io/) und cmake.
 Getestet wurde es auf Arch Linux 
 
+Benötigte Dependencies:
+
+https://gitlab.com/n-forge/Gem
+https://gitlab.com/n-forge/Nuc
+
 1. git clone https://github.com/knimix/Belegarbeit.git
 2. cd Belegarbeit/
 3. conan install conanfile.py --build=missing
